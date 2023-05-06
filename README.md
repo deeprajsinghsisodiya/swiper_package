@@ -5,7 +5,7 @@ A new Flutter project.
 
 https://user-images.githubusercontent.com/122676491/236612325-3c9a0573-82a8-472f-afb1-9be9e7879820.mp4
 
-Use of null safa package which is very easy to impliment. flutter_swiper 1.1.6 replacement of this popular package.
+Use of flutter_swiper_null_safety: ^1.0.2 package which is very easy to impliment. flutter_swiper 1.1.6 replacement of this popular package.
 
 ## Getting Started
 
